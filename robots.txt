@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://orisetina.github.io/sitemap.html.gz
+Sitemap: https://orisetina.github.io/app/sitemap.html.gz
+Sitemap: https://orisetina.github.io/assets/sitemap.html.gz
+Sitemap: https://orisetina.github.io/css/sitemap.html.gz
+Sitemap: https://orisetina.github.io/includes/sitemap.html.gz
+Sitemap: https://orisetina.github.io/item/sitemap.html.gz
+Sitemap: https://orisetina.github.io/src/sitemap.html.gz
